@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">cameo</string>
+    <string name="footer_license">Copyright License</string>
+    <string name="HeaderLogin">Protect your information security with Google.</string>
+    <string name="infologin">Sign in with the SAME @gmail.com address so that Cameo can pair your Viewer and Camera</string>
+    <string name="skip_this_try_demo_mode">Skip this. Try demo mode</string>
+    <string name="set_this_device_as">Set this device as:</string>
+    <string name="infoviewer">Lorem ipsum dolor si amet. conseluter edipiscing eilrt. Aligquiim aeget justo volutat eras vulputta</string>
+    <string name="viewer"><b>Viewer</b></string>
+    <string name="camera">Camera</string>
+    <string name="title_activity_galery">GaleryActivity</string>
+    <string name="title_activity_galery_video">GaleryVideoActivity</string>
+
+</resources>

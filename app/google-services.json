@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1022384731794",
+    "project_id": "cameo-4c944"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022384731794:android:797f479914e1a7ee",
+        "android_client_info": {
+          "package_name": "primainteraktif.cameo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022384731794-7egkqmb5kobt60h5j62okmfe86d37nvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "primainteraktif.cameo",
+            "certificate_hash": "292b2f2e3225a87cf655f9ca210f7547029ab70a"
+          }
+        },
+        {
+          "client_id": "1022384731794-5hp7d8d2vcusj0esksjce5ecmamgrpco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP5DkAS-haieyRPLViVGUx_2hcIg9KoAk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

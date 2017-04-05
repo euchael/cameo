@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0687EA</color>
+    <color name="colorPrimaryDark">#0615EA</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="primary_text">#9bc7ec</color>
+    <color name="secondary_text">#262626</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="bgblue">#0686e8</color>
+    <color name="abu">#ededed</color>
+    <color name="headerh1">#FFF</color>
+    <color name="coklat">#aac4b0</color>
+</resources>
