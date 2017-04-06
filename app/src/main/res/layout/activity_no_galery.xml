@@ -9,5 +9,16 @@
 
     <include layout="@layout/toolbar" />
 
+    <GridView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_marginTop="?attr/actionBarSize"
+        android:id="@+id/grid_list_galery_video"
+        android:layout_width="match_parent"
+        android:numColumns="2"
+        android:verticalSpacing="0dp"
+        android:horizontalSpacing="0dp"
+        android:stretchMode="columnWidth"
+        android:layout_height="match_parent">
+
+    </GridView>
 
 </RelativeLayout>

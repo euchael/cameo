@@ -1,9 +1,7 @@
 {
   "project_info": {
     "project_number": "1022384731794",
-    "firebase_url": "https://cameo-4c944.firebaseio.com",
-    "project_id": "cameo-4c944",
-    "storage_bucket": "cameo-4c944.appspot.com"
+    "project_id": "cameo-4c944"
   },
   "client": [
     {
@@ -14,10 +12,6 @@
         }
       },
       "oauth_client": [
-        {
-          "client_id": "1022384731794-jot3p6ud0pid3mnuujsikvgqa5mrfj77.apps.googleusercontent.com",
-          "client_type": 3
-        },
         {
           "client_id": "1022384731794-7egkqmb5kobt60h5j62okmfe86d37nvr.apps.googleusercontent.com",
           "client_type": 1,
@@ -41,16 +35,11 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "1022384731794-jot3p6ud0pid3mnuujsikvgqa5mrfj77.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
-          "status": 2
+          "status": 1
         }
       }
     }
